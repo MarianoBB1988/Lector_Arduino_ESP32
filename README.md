@@ -21,7 +21,7 @@ Cada LED en la interfaz puede encenderse en **verde** o apagarse en **rojo** dep
 - Un microcontrolador **ESP32** conectado a la PC por USB.
 - Configuración correcta del **puerto COM** en el código (ejemplo: `COM7`).
 
-## ⚙️ Instalación y ejecución
+##  Instalación y ejecución
 1. Conectar el **ESP32** al PC.
 2. Descargar e importar la librería `jSerialComm` en el proyecto Java.
 3. Modificar en el código la línea:
